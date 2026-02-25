@@ -17,7 +17,6 @@ I am a UI/UX Designer with a strong foundation in Graphic Design. I don't just m
 - 🎯 **Core Focus:** Design Systems, User Research, Wireframing, and High-Fidelity Prototyping.
 - 🛠️ **Superpower:** Mastering **Figma** (Auto Layout, Variables, Advanced Prototyping).
 - 🌱 **Currently exploring:** Frontend basics (HTML/CSS) to collaborate better with engineering teams.
-- 🤝 **Looking to collaborate on:** Open-source design systems or innovative web/mobile apps.
 
 ---
 
